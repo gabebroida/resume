@@ -1,35 +1,27 @@
 {
 	"globals": {
-		"name": "Paul Schaefer",
-		"github": "https://github.com/pschfr/resume",
+		"name": "Gabe Broida",
+		"github": "https://github.com/gabebroida/resume",
 		"analytics": "UA-76037357-5",
 		"contact": {
-			"phone": "+1-412-414-9939",
-			"email": "hello@paulmakesthe.net",
-			"url": "https://paulmakesthe.net"
+			"phone": "+1-440-773-7059",
+			"email": "gabebroida@gmail.com",
+			"url": "broidagraphics.com"
 		},
 		"education": {
 			"The Art Institute of Pittsburgh": {
-				"time": "2013 - 2015",
-				"major": "Web Design and Interactive Media"
-			},
-			"Erie County Technical School": {
-				"time": "2010 - 2013",
-				"major": "Computer Programming"
-			},
-			"Northwestern Senior High School": {
-				"time": "2009 - 2013"
+				"time": "2014 - 2017",
+				"major": "Bachelor of Science, Visual Effects & Motion Graphics"
 			}
 		},
 		"skills": [
-			"HTML",
-			"CSS",
-			"JavaScript",
-			"PHP",
-			"Git",
-			"Bash",
-			"Python",
-			"Microsoft Office"
+			"Cinema 4D",
+			"Adobe Photoshop",
+			"Adobe Premiere Pro",
+			"Adobe Audition",
+			"Adobe After Effects",
+			"Adobe Illustrator",
+			"Autodesk 3ds Max"
 		],
 		"achievements": [
 			"Former member of SkillsUSA",
