@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 
 gulp.task('default', function() {
 	var conn = vftp.create({
-		host: 'paulmakesthe.net',
+		host: 'broidagraphics.com',
 		user: 'username',
 		pass: 'password',
 		parallel: 8,
